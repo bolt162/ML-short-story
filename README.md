@@ -57,5 +57,3 @@ Below are the published links for the article and the presentation video:
 - Causal Digital Twin Simulation  
 
 ---
-
-Feel free to modify this section with your name, course info, or additional files as needed.
