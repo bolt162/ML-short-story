@@ -41,7 +41,7 @@ Below are the published links for the article and the presentation video:
   ➤ https://medium.com/@ash16299/beyond-correlation-the-rise-of-causal-graph-neural-networks-in-healthcare-b052be3f3432?postPublishedType=initial
 
 - **Video Presentation:**  
-  ➤ 
+  ➤ [Video](http://tiny.cc/fstv001)
 
 ---
 
